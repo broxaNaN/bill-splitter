@@ -1,9 +1,5 @@
 import random
 
-# This is my first official python project. 
-# It consists of a simple bill splitter, for going out with friends.
-# Fair warning: it's not the most efficient.
-
 print('Enter the number of friends joining (including you):')
 number_friends = int(input())
 if (number_friends <= 0):  
